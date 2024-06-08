@@ -1,1 +1,1 @@
-Basic knowledge test, developed in the second semester of Engineering. Application of the following topics: Output and Input command; Variables; Simple, compound, aligned and IF/ELIF/ELSE conditional structure; Arithmetic operators, assignment operator and relational operators.
+Write a program that asks for an employee's salary and calculates the amount of his raise. For wages greater than 1250.00, calculate a 10% increase. For less or equal, the increase is 15%.
