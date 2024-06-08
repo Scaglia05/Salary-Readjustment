@@ -1,4 +1,5 @@
 Calculate Your Raise
+
 This simple Python code allows users to calculate salary increase based on current salary value. Here's how it works:
 
 First, the program asks the user to enter their current salary.
